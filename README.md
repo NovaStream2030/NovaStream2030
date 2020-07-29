@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет, я @NovaStream2030!
 
-<!--
-**NovaStream2030/NovaStream2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я веб-разработчик, верстальщик и дизайнер из [rsDev](https://vk.com/rsdevxyz). 
 
-Here are some ideas to get you started:
+Занимаюсь интересными проектами, участвую вместе со своей командой в конкурсах. 
+Также немного контрибьючу для [VenityStudio](https://github.com/VenityStudio) и прочих людей время от времени.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱  Я сейчас работаю над MiniDonate и другими секретными проектами.
+- 🤓 Я собираюсь изучить C++ и Rust и мечтаю создавать крутые приложения.
+- 😒 Не сильно хорошо ReactJS (ну я же копирую у [@gbowsky](https://github.com/gbowsky), надо соответствовать), пишу на JS. Начал потихоньку юзать TS.
+- 📫 Найти меня можно в [VK](https://vk.com/NovaStream2030) и [Telegram](https://t.me/NovaStream2030).
+- 🎂 9 августа 2020г. исполнится 15 лет!
+
+
+
+Честно скопировано у [@gbowsky](https://github.com/gbowsky)
