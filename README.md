@@ -10,6 +10,9 @@
 - 📫 Найти меня можно в [VK](https://vk.com/NovaStream2030) и [Telegram](https://t.me/NovaStream2030).
 - 🎂 Мне 15 лет!
 
-![Сколько я времени провел за тем или иным языком за неделю. By WakaTime](https://wakatime.com/share/@d7d65ed1-79f1-453d-b2b0-293f15d85800/d1285c5c-50c9-4c2a-a96f-294b583fba12.png)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaStream2030&show_icons=true" />
+  <img src="https://wakatime.com/share/@d7d65ed1-79f1-453d-b2b0-293f15d85800/d1285c5c-50c9-4c2a-a96f-294b583fba12.png" />
+</p>
 
 Честно скопировано у [@gbowsky](https://github.com/gbowsky)
