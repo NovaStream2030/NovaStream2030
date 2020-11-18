@@ -1,6 +1,6 @@
 ### Привет, я @NovaStream2030!
 
-Я веб-разработчик из [NovaTeam](https://vk.com/novateamdev). 
+Я веб-разработчик из [novateam](https://vk.com/novateamdev). 
 
 Занимаюсь интересными проектами, участвую вместе со своей командой в конкурсах.
 
