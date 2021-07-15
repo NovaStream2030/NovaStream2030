@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Привет, меня зовут Георгий!
 
 <!--
 **NovaStream2030/NovaStream2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
